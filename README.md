@@ -8,14 +8,14 @@
   Listagem
   <br/>
   <br/>
-  <img src='github/home.png' width="600px"/>
+  <img src='github/home.png' width="300px"/>
 </h2>
 
 <h2 align="center">
   Carinho
   <br/>
   <br/>
-  <img src='github/cart.png' width="600px"/>
+  <img src='github/cart.png' width="300px"/>
 </h2>
 
 # Indice
