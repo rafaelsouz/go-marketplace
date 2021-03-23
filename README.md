@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src='github/logo@3x(1).png'/>
+  <img src='github/logo@3x (1).png'/>
 </h1>
 
 ---
@@ -8,14 +8,14 @@
   Listagem
   <br/>
   <br/>
-  <img src='github/home.png' width=800/>
+  <img src='github/home.png' width="600px"/>
 </h2>
 
 <h2 align="center">
   Carinho
   <br/>
   <br/>
-  <img src='github/cart.png' width=800/>
+  <img src='github/cart.png' width="600px"/>
 </h2>
 
 # Indice
